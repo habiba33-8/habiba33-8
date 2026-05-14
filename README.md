@@ -6,9 +6,9 @@ Experienced in building intelligent systems and applying algorithms to solve rea
 
 
 🧠 About Me  
-🎓 3rd-year CS & AI student at Al-Ryada University (CGPA: 3.74)  
-💻 Skilled in Python, C++, Java, JavaScript 
-🤖 Passionate about AI, ML, DL, Computer Vision  
+🎓 3rd-year CS & AI student  
+💻 Skilled in Python, R, C++, Java, JavaScript 
+🤖 Passionate about AI, ML, DL, Computer Vision ,nlp 
 📊 Love working on EDA, Model Training, and Optimization
 🚀 Exploring Real-world AI projects and deploying intelligent applications  
 
@@ -34,7 +34,7 @@ Experienced in building intelligent systems and applying algorithms to solve rea
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habiba-samy-555242344/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibasamy200531@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibaasamy480@gmail.com)
 
 
-⭐"Always learning, always building."
+"Always learning, always building."
